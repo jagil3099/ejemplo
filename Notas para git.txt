@@ -1,0 +1,4 @@
+Este es mi primer archivo para GIT
+
+
+nueva linea despues del git add-
